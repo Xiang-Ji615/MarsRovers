@@ -10,13 +10,6 @@ Tests:
 The frist param from scanner is for the matrix X and Y.
 Then each pair of params defines both the rover( with X, Y and initial direction) and Command(combination of 'L', 'M' and 'R').
 
-  .   ____          _            __ _ _
- /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
-( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
- \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
-  '  |____| .__|_| |_|_| |_\__, | / / / /
- =========|_|==============|___/=/_/_/_/
- :: Spring Boot ::        (v1.5.1.RELEASE)
 
 2018-10-27 17:29:00.480  INFO 11956 --- [           main] main.java.mars.rovers.app.App            : Starting App on DESKTOP-4MV3R5N with PID 11956 (C:\Java_Env\eclipse\workspace\MARS_ROVERS\target\classes started by xiang in C:\Java_Env\eclipse\workspace\MARS_ROVERS)
 2018-10-27 17:29:00.484  INFO 11956 --- [           main] main.java.mars.rovers.app.App            : No active profile set, falling back to default profiles: default

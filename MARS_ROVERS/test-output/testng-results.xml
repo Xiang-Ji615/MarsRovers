@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1496" started-at="2018-10-27T06:14:10Z" finished-at="2018-10-27T06:14:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1496" started-at="2018-10-27T06:14:10Z" finished-at="2018-10-27T06:14:11Z">
+      <class name="test.java.mars.rovers.test.MarsRoverPathTests">
+        <test-method status="PASS" signature="springTestContextBeforeTestClass()[pri:0, instance:test.java.mars.rovers.test.MarsRoverPathTests@2357d90a]" name="springTestContextBeforeTestClass" is-config="true" duration-ms="23" started-at="2018-10-27T06:14:10Z" finished-at="2018-10-27T06:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestClass -->
+        <test-method status="PASS" signature="springTestContextPrepareTestInstance()[pri:0, instance:test.java.mars.rovers.test.MarsRoverPathTests@2357d90a]" name="springTestContextPrepareTestInstance" is-config="true" duration-ms="1430" started-at="2018-10-27T06:14:10Z" depends-on-methods="org.springframework.test.context.testng.AbstractTestNGSpringContextTests.springTestContextBeforeTestClass" finished-at="2018-10-27T06:14:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextPrepareTestInstance -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:test.java.mars.rovers.test.MarsRoverPathTests@2357d90a]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="2" started-at="2018-10-27T06:14:11Z" finished-at="2018-10-27T06:14:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.mars.rovers.test.MarsRoverPathTests.testSampleTestCases()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="testSampleTestCases()[pri:0, instance:test.java.mars.rovers.test.MarsRoverPathTests@2357d90a]" name="testSampleTestCases" duration-ms="7" started-at="2018-10-27T06:14:11Z" finished-at="2018-10-27T06:14:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSampleTestCases -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:test.java.mars.rovers.test.MarsRoverPathTests@2357d90a]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2018-10-27T06:14:11Z" finished-at="2018-10-27T06:14:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.java.mars.rovers.test.MarsRoverPathTests.testSampleTestCases()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextAfterTestClass()[pri:0, instance:test.java.mars.rovers.test.MarsRoverPathTests@2357d90a]" name="springTestContextAfterTestClass" is-config="true" duration-ms="2" started-at="2018-10-27T06:14:11Z" finished-at="2018-10-27T06:14:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestClass -->
+      </class> <!-- test.java.mars.rovers.test.MarsRoverPathTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
